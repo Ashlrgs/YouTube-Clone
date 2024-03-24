@@ -4,12 +4,12 @@ This project aims to replicate the basic functionalities and appearance of the Y
 Project Structure
 The project consists of the following files and directories:
 
-youtube.html: The main HTML file that represents the structure of the YouTube clone website. //
-general.css: CSS file containing general styles applicable across the website. //
-header.css: CSS file containing styles specific to the header section.
-sidebar.css: CSS file containing styles specific to the sidebar/navigation menu.
-video.css: CSS file containing styles specific to the video thumbnails and related elements.
-assets/: A directory containing any necessary images, icons, or other media resources used in the project.
+youtube.html: The main HTML file that represents the structure of the YouTube clone website. <br>
+general.css: CSS file containing general styles applicable across the website. <br>
+header.css: CSS file containing styles specific to the header section. <br>
+sidebar.css: CSS file containing styles specific to the sidebar/navigation menu. <br>
+video.css: CSS file containing styles specific to the video thumbnails and related elements. <br>
+assets/: A directory containing any necessary images, icons, or other media resources used in the project. <br>
 Features
 The YouTube clone project includes the following features:
 
