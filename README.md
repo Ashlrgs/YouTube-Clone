@@ -4,8 +4,8 @@ This project aims to replicate the basic functionalities and appearance of the Y
 Project Structure
 The project consists of the following files and directories:
 
-youtube.html: The main HTML file that represents the structure of the YouTube clone website.
-general.css: CSS file containing general styles applicable across the website.
+youtube.html: The main HTML file that represents the structure of the YouTube clone website. //
+general.css: CSS file containing general styles applicable across the website. //
 header.css: CSS file containing styles specific to the header section.
 sidebar.css: CSS file containing styles specific to the sidebar/navigation menu.
 video.css: CSS file containing styles specific to the video thumbnails and related elements.
@@ -24,7 +24,7 @@ Clone the repository to your local machine using Git:
 
 bash
 
-git clone https://github.com/your-username/youtube-clone.git
+git clone [https://github.com/your-username/youtube-clone.git](https://github.com/Ashlrgs/YouTube-Clone.git)
 Navigate into the project directory:
 
 bash
