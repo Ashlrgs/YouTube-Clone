@@ -33,3 +33,4 @@ cd youtube-clone
 Open the youtube.html file in a web browser of your choice.
 
 The website should now open in your default web browser, allowing you to explore the YouTube clone.
+...
