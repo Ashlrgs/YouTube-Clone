@@ -10,6 +10,7 @@ header.css: CSS file containing styles specific to the header section. <br>
 sidebar.css: CSS file containing styles specific to the sidebar/navigation menu. <br>
 video.css: CSS file containing styles specific to the video thumbnails and related elements. <br>
 assets/: A directory containing any necessary images, icons, or other media resources used in the project. <br>
+
 Features
 The YouTube clone project includes the following features:
 
@@ -23,12 +24,10 @@ To run the project locally on your machine, follow these steps:
 Clone the repository to your local machine using Git:
 
 bash
-
 git clone [https://github.com/your-username/youtube-clone.git](https://github.com/Ashlrgs/YouTube-Clone.git)
 Navigate into the project directory:
 
 bash
-
 cd youtube-clone
 Open the youtube.html file in a web browser of your choice.
 
