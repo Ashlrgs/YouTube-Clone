@@ -1,7 +1,7 @@
 # YouTube Clone 
 This project aims to replicate the basic functionalities and appearance of the YouTube website using HTML and CSS. This README file provides an overview of the project structure, functionalities, and instructions for running the project locally.
 
-Project Structure
+### Project Structure
 The project consists of the following files and directories:
 
 youtube.html: The main HTML file that represents the structure of the YouTube clone website. <br>
@@ -11,7 +11,7 @@ sidebar.css: CSS file containing styles specific to the sidebar/navigation menu.
 video.css: CSS file containing styles specific to the video thumbnails and related elements. <br>
 assets/: A directory containing any necessary images, icons, or other media resources used in the project. <br>
 
-Features
+### Features
 The YouTube clone project includes the following features:
 
 Header: A header section resembling the one found on YouTube, including the YouTube logo and search bar.
